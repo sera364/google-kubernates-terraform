@@ -26,4 +26,4 @@
    *  LoadBalancer that expose the whole deployment  
 
 
-## Check the live deployment from [here](http://http://34.126.102.23:8000//)
+## Check the live deployment from [here](http://http://34.126.102.23//)
